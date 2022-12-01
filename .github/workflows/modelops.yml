@@ -13,4 +13,4 @@ jobs:
   - name: hello-world
     run: echo “hello world workflows ...”
   - name: run model
-    run: python linear-model.py
+    run: python linear_model.py
